@@ -1,5 +1,3 @@
-# word-detective-ai
-
 # Word Detective: Probabilistic Text & Language Analyzer
 
 A Python-based interactive tool that leverages probabilistic modeling and AI logic to detect patterns, calculate word likelihoods, and solve language puzzles.
