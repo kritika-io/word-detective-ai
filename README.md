@@ -25,14 +25,14 @@ This project applies foundational concepts from computational probability and Ar
 
 ---
 
-## 🚀 Getting Started
+## 📖 Project Nature
 
-### Prerequisites
+This project represents a **System Architecture & Probabilistic Design Case Study** created as part of the technical evaluation for Stanford University's *Probability for Artificial Intelligence* (PAI) program.
 
-- **Python 3.8+** (No heavy external frameworks required)
+Instead of traditional code implementation, the project focused on:
+- **Algorithmic Logic Design:** Defining conditional probability rules for text decoding.
+- **AI Prompt Engineering & Specification:** Interactively building the application logic through Stanford's PAI assessment environment.
 
-### Installation & Run Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/kritika-io/word-detective-ai.git](https://github.com/kritika-io/word-detective-ai.git)
+### 🔗 Live Interaction
+You can view the full interactive design transcript and logic breakdown directly on the Stanford PAI portal:
+👉 [View Interactive PAI Session](https://pai.stanford.edu/pai/share/kKqA0GidY8AnwVELR2Pf)
